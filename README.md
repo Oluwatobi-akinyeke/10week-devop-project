@@ -1,2 +1,3 @@
 # 10week-devop-project
-this is a test 
+I have committed and I am expecting you to see a conflict when you pull
+Nothing to show you but you will see conflict.
